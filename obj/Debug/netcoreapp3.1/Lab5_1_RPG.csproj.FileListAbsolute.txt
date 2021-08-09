@@ -1,0 +1,13 @@
+C:\DevBuild\Week05\Lab5_1_RPG\bin\Debug\netcoreapp3.1\Lab5_1_RPG.exe
+C:\DevBuild\Week05\Lab5_1_RPG\bin\Debug\netcoreapp3.1\Lab5_1_RPG.deps.json
+C:\DevBuild\Week05\Lab5_1_RPG\bin\Debug\netcoreapp3.1\Lab5_1_RPG.runtimeconfig.json
+C:\DevBuild\Week05\Lab5_1_RPG\bin\Debug\netcoreapp3.1\Lab5_1_RPG.runtimeconfig.dev.json
+C:\DevBuild\Week05\Lab5_1_RPG\bin\Debug\netcoreapp3.1\Lab5_1_RPG.dll
+C:\DevBuild\Week05\Lab5_1_RPG\bin\Debug\netcoreapp3.1\Lab5_1_RPG.pdb
+C:\DevBuild\Week05\Lab5_1_RPG\obj\Debug\netcoreapp3.1\Lab5_1_RPG.csproj.AssemblyReference.cache
+C:\DevBuild\Week05\Lab5_1_RPG\obj\Debug\netcoreapp3.1\Lab5_1_RPG.AssemblyInfoInputs.cache
+C:\DevBuild\Week05\Lab5_1_RPG\obj\Debug\netcoreapp3.1\Lab5_1_RPG.AssemblyInfo.cs
+C:\DevBuild\Week05\Lab5_1_RPG\obj\Debug\netcoreapp3.1\Lab5_1_RPG.csproj.CoreCompileInputs.cache
+C:\DevBuild\Week05\Lab5_1_RPG\obj\Debug\netcoreapp3.1\Lab5_1_RPG.dll
+C:\DevBuild\Week05\Lab5_1_RPG\obj\Debug\netcoreapp3.1\Lab5_1_RPG.pdb
+C:\DevBuild\Week05\Lab5_1_RPG\obj\Debug\netcoreapp3.1\Lab5_1_RPG.genruntimeconfig.cache
