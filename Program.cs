@@ -38,7 +38,7 @@ namespace Lab5_1_RPG
             this.Intelligence = 0;
             this.WeaponType = "";
         }
-        public Warrior(string _Name, int _Strength, int _Intelligence, string _WeaponType)
+        public Warrior(string _Name, int _Strength, int _Intelligence, string _WeaponType) : base(_Name, _Strength, _Intelligence)
         {
             this.Name = _Name;
             this.Strength = _Strength;
@@ -63,10 +63,10 @@ namespace Lab5_1_RPG
             this.Intelligence = 0;
             this.MagicalEnergy = 0;
         }
-        public MagicUsingCharacter(string _Name, int _Strenth, int _Intelligence, int _MagicalEnergy)
+        public MagicUsingCharacter(string _Name, int _Strength, int _Intelligence, int _MagicalEnergy) : base(_Name, _Strength, _Intelligence)
         {
             this.Name = _Name;
-            this.Strength = _Strenth;
+            this.Strength = _Strength;
             this.Intelligence = _Intelligence;
             this.MagicalEnergy = _MagicalEnergy;
         }
@@ -89,7 +89,7 @@ namespace Lab5_1_RPG
             this.MagicalEnergy = 0;
             this.SpellNumber = 0;
         }
-        public Wizard(string _Name, int _Strength, int _Intelligence, int _MagicalEnergy, int _Spellnumber)
+        public Wizard(string _Name, int _Strength, int _Intelligence, int _MagicalEnergy, int _Spellnumber) : base(_Name, _Strength, _Intelligence, _MagicalEnergy)
         {
             this.Name = _Name;
             this.Strength = _Strength;
